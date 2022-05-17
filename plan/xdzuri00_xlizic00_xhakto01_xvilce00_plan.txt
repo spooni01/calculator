@@ -1,0 +1,22 @@
+Terminy:
+	do 17.3. - Urcenie uloh v time, vyriesenie komunikacnych kanalov, zalozenie Githubu
+	do 26.3. - Analyza poziadavkov, struktura programu, dokumentacia, dohodnut sa na formalnych pravidlach pri tvorbe (sposob a jazyk komentovania a pod), navrh wireframov
+	do 1.4. - Architektonicky a podrobny navrh, navrh testov, vytvaranie frontendu
+	do 9.4. - tvorba backendu
+	do 16.4. - Integracia a testovanie, oprava kodu
+	do 25.4. - doladenie programu
+	28.4. - Odovzdanie
+
+Pridelenie uloh na projekt jednotlivym riesitelom:
+	xlizic00 -	Frontend + dizajn, testy
+	xhakto01 -	Backend
+	xvilce00 -	Dokumentacia (Uzivatelska prirucka v pdf), makefile, testy
+	xdzuri00 -	Dohliadanie na pracu v time, backend
+
+Zvolene komunikacne kanaly:
+	Discord
+
+Zvoleny system pre spravu verzii a hosting:
+	GitHub - pri pushovani na github sa budu vytvarat nove branche a pri dokonceni branchu sa vytvori pull request ktory schvalia ostatni clenovia timu
+	
+	na github sme pridali medzi collaborators ucet ivs.kontrola@gmail.com, meno veduceho timu na Githube - dzuris

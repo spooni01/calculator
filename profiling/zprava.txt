@@ -1,0 +1,4 @@
+After executing profiling.py, the profiling program will run calculator, and you can use (or try) app features, 
+after closing the app, output_time.txt will be generated. 
+In vystup.txt will be every function and method that app has called/used,
+with count how many times app has called this function/method and average run time of this function/method

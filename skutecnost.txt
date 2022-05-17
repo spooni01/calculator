@@ -1,0 +1,27 @@
+Rozdiely oproti prvotnemu planu (plan/xdzuri00_xlizic00_xhakto01_xvilce00_plan.txt)
+
+Terminy:
+	1. OK
+	2. OK
+	3. S MIERNYM POSUNOM
+	4. S MIERNYM POSUNOM
+	5. S MIERNYM POSUNOM
+	6. S MIERNYM POSUNOM
+	7. OK
+
+Ulohy:
+	xlizic00 - frontend 					-- OK
+	xhakto01 - dokumentacia, instalacia 		-- ZMENA
+	xvilce00 - testovanie, debug				-- MIERNA ZMENA
+	xdzuri00 - dohliadanie na pracu v time, backend -- OK
+
+Zvolene komunikacne kanaly:
+	Discord - 	Fungoval vyborne, plus rozdelenie uloh do 
+			roznych miestnosti a komunikacia ku kazdej 
+			prebiehala v nej cim sa dost sprehladnila 
+			komunikacia
+
+Zvoleny system pre spravu verzii a hosting:
+	Github -	Fungoval vyborne, plus sa dodrziavali 
+			povacsine aj pravidla pre vkladanie 
+			noveho kodu

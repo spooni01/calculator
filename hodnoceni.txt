@@ -1,0 +1,4 @@
+xdzuri00 100 (kalkulacka backend, dohliadanie na pracu v time, )
+xlizic00 100 (frontend, prepojenie frontend-backend)
+xhakto01 100 (dokumentacia, struktura projektu, instalacka)
+xvilce00 100 (testovanie, debug)

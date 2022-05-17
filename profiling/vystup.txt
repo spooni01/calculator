@@ -1,0 +1,38 @@
+Thu Apr 28 15:28:12 2022    output.dat
+
+         442114 function calls in 2.008 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+   441699    1.824    0.000    1.824    0.000 {built-in method pygame.event.get}
+        1    0.167    0.167    1.991    1.991 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:576(main_loop)
+        1    0.007    0.007    0.007    0.007 {built-in method pygame.display.set_icon}
+        5    0.004    0.001    0.004    0.001 {built-in method pygame.display.update}
+        1    0.002    0.002    0.002    0.002 {built-in method pygame.imageext.load_extended}
+        1    0.002    0.002    0.002    0.002 {built-in method pygame.display.set_mode}
+       31    0.001    0.000    0.001    0.000 {built-in method pygame.draw.rect}
+      260    0.000    0.000    0.000    0.000 {built-in method pygame.mouse.get_pos}
+        1    0.000    0.000    0.000    0.000 {method 'fill' of 'pygame.Surface' objects}
+       30    0.000    0.000    0.000    0.000 {method 'blit' of 'pygame.Surface' objects}
+       30    0.000    0.000    0.000    0.000 {method 'render' of 'pygame.font.Font' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method pygame.display.set_caption}
+        1    0.000    0.000    2.008    2.008 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:109(__init__)
+        1    0.000    0.000    0.001    0.001 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:152(draw_panel)
+        1    0.000    0.000    0.016    0.016 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:115(default_window_settings)
+        1    0.000    0.000    0.001    0.001 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:509(draw_history)
+        1    0.000    0.000    2.008    2.008 {built-in method builtins.exec}
+        1    0.000    0.000    0.005    0.005 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:127(draw_main_scene)
+        1    0.000    0.000    0.001    0.001 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:136(draw_top_bar)
+       30    0.000    0.000    0.000    0.000 {method 'size' of 'pygame.font.Font' objects}
+        5    0.000    0.000    0.004    0.001 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:553(update)
+        1    0.000    0.000    0.002    0.002 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:495(draw_display)
+        1    0.000    0.000    0.001    0.001 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:482(draw_result)
+        1    0.000    0.000    0.000    0.000 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:453(draw_math_problem)
+        1    0.000    0.000    0.001    0.001 C:\Users\adamd\OneDrive\Dokumenty\Github\IVS-Project2\src\front_end.py:502(reset_result_display)
+        1    0.000    0.000    2.008    2.008 <string>:1(<module>)
+        3    0.000    0.000    0.000    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        2    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+
+
